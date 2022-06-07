@@ -6,7 +6,9 @@ The purpose of this project is to polish the web app we have created and make it
 
 ## Results
 
-### Scraping
+### Scrape Full-Resolution Mars Hemisphere Images and Titles
+
+
 
 ![Screen Shot 2022-06-05 at 8 45 26 PM (2)](https://user-images.githubusercontent.com/102264298/172482318-29f6af67-18b5-48e6-9a0c-e677aef6fa5c.png)
 
@@ -14,8 +16,14 @@ The purpose of this project is to polish the web app we have created and make it
 
 ### Add Bootstrap 3 Components
 
+#### Mobile-responsive & Change the backgroud color and typography
+ 1. Changed the button color to warning, which is orange to match the header color.
+ 2. Changed the colors of background and headers.
+ 3. Create lighter, secondary text in the heading.
+ 4. Make the webpage is mobile-responsive.
+
 ![Screen Shot 2022-06-07 at 4 01 17 PM (2)](https://user-images.githubusercontent.com/102264298/172482349-4dbc7fb7-4cf8-47a1-884c-6db7c1f7b99c.png)
 
-Final Look
+#### Final Look
 
 ![Screen Shot 2022-06-07 at 4 09 16 PM (2)](https://user-images.githubusercontent.com/102264298/172483279-e52a8038-a40e-4abf-b172-35684e66d0fa.png)
