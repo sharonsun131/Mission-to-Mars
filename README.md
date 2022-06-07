@@ -18,4 +18,4 @@ The purpose of this project is to polish the web app we have created and make it
 
 Final Look
 
-![Screen Shot 2022-06-07 at 3 15 21 PM (2)](https://user-images.githubusercontent.com/102264298/172482378-e1c149d2-8932-4839-a0be-6475fb749751.png)
+![Screen Shot 2022-06-07 at 4 09 16 PM (2)](https://user-images.githubusercontent.com/102264298/172483279-e52a8038-a40e-4abf-b172-35684e66d0fa.png)
